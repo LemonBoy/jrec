@@ -1,0 +1,6 @@
+jrec 0.1
+The Lemon Man (C) 2011
+
+A simple tool to recover jpeg images out of raw blobs.
+Not intended to be used on hard disk images and/or
+blobs larger than your ram due to internal design.
